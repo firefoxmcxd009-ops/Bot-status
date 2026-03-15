@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 from mcstatus import JavaServer
 
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "8584566887:AAEI7OpsvG8-rq6bq6qO3s3BKqu64QidtSY"
 SERVER_IP = "dinomc.org"  # ប្ដូរ IP របស់អ្នក
 SERVER_PORT = 19132
 
